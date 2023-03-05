@@ -7,11 +7,12 @@ In what world do we impose Nathan Lu's visage? His. As we can see, the lasting e
 
 **We should observe the man and imitate his words.**
 
-## Why Nathan Lu, why?
+## Why Nathan Lu, why? Whys is markdown not being rendered?
 
-A question for the ages, We will get an interview with his best friend Raymond Tang to find out.
+A question for the ages, We *will* get an interview with his best friend Raymond Tang to find out.
 
-### Q1: Why?
+### Q1: Why did markdown not render properly?
+### A:
 
-Raymond: Yes
+When the global.css file was mistyped as globals.css, even though the import was properly done, it could not be parsed properly.
 
