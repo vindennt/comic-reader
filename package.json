@@ -6,7 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "date-fns": "^2.29.3",
+    "framer-motion": "^10.0.2",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "18.2.0",
